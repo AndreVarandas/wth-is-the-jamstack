@@ -8,8 +8,6 @@ Talk consists of:
 - How does it compare to other stacks?
 - When to use it?
 
-Talk by me - [Twitter](https://twitter.com/iamvarandas)
-
 ## How to run
 
 ```bash
