@@ -40,7 +40,7 @@ image: /wp-logo.png
 <TheFooter />
 
 <!--
-What is LAMP
+LAMP Definition, what is it, how it works, how to use it, etc.
 -->
 
 ---
@@ -69,7 +69,7 @@ image: /this-is-fine.jpg
 <TheFooter />
 
 <!--
-How do we setup and maintain a WordPress website
+How do we setup and maintain a WordPress website running on the LAMP stack
 -->
 
 ---
@@ -125,13 +125,13 @@ image: /jam.png
 
 <!--
 JavaScript
-Any framework or library you
+Any framework or library you'd like
 
 APIs
-Server side operations using APIs with JavaScript.
+Server-side operations using APIs with JavaScript.
 
 Markup
-Generated from source files, Markdown, JSON or a headless CMS.
+Generated from source files, Markdown, JSON, or a headless CMS.
 -->
 
 ---
@@ -170,6 +170,8 @@ image: /there-is-no-server.jpg
 2 Must use:
 
 - Git and CDN or static site hosting.
+
+Optional tools and how they work.
 -->
 
 ---
@@ -197,7 +199,10 @@ Deploy your static files to a CDN.
 <TheFooter />
 
 <!--
-How do these play together?
+Typical workflow
+
+- Write content, and add dynamic behavior with JavaScript.
+-
 -->
 
 ---
