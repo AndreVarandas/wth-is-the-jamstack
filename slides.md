@@ -8,7 +8,6 @@ fonts:
   serif: Roboto Slab
   mono: Fira Code
 css: unocss
-class: text-coolgray-8 bg-coolgray-1
 ---
 
 <div class="absolute rounded bottom-10 p-8 bg-coolgray-8">
@@ -40,6 +39,10 @@ image: /wp-logo.png
 
 <TheFooter />
 
+<!--
+What is LAMP
+-->
+
 ---
 layout: image-right
 image: /this-is-fine.jpg
@@ -64,6 +67,10 @@ image: /this-is-fine.jpg
 - Backups, monitoring and logging
 
 <TheFooter />
+
+<!--
+How do we setup and maintain a WordPress website
+-->
 
 ---
 layout: image-right
@@ -102,11 +109,11 @@ public function main($query_args = '') {
 -->
 
 ---
-layout: image-right
+layout: intro-image-right
 image: /jam.png
 ---
 
-# Jamstack
+# WTH is Jamstack?
 
 ### What is it?
 
@@ -114,15 +121,18 @@ image: /jam.png
 - It started as a marketing term.
 - It's a way of building websites and apps.
 
-<br />
-
-### Tools and services
-
-- Static site generators
-- Headless CMS
-- Serverless functions
-
 <TheFooter />
+
+<!--
+JavaScript
+Any framework or library you
+
+APIs
+Server side operations using APIs with JavaScript.
+
+Markup
+Generated from source files, Markdown, JSON or a headless CMS.
+-->
 
 ---
 layout: image-right
@@ -131,25 +141,36 @@ image: /there-is-no-server.jpg
 
 # Let's look into...
 
-### Jamstack Development Flow
+### Must have
 
 <br />
 
-1. <logos-github class="text-3xl" /> Source code in a Git repository
-2. <logos-nextjs class="text-3xl" /> Static site generator **(?)**
-3. <logos-aws class="text-3xl" /> Serverless functions **(?)**
-4. <logos-strapi class="text-3xl" /> Headless CMS to manage content **(?)**
-5. <logos-netlify class="text-3xl" /> CDN or static site hosting
+1. <logos-github class="text-2xl" /> Source code in a Git repository
+2. <logos-netlify class="text-2xl" /> CDN or static site hosting
+
+<br />
+
+### Optional
+
+1. <logos-nextjs class="text-2xl" /> Static site generator 
+2. <logos-aws class="text-2xl" /> Serverless functions or APIs 
+3. <logos-strapi class="text-2xl" /> Headless CMS to manage content
 
 <br />
 
 ### Tools
 
-Static site generators: **347**
-
-Headless CMS: **96**
+1. Static site generators: **347**
+2. Headless CMS: **96**
+3. **Countless** amount of APIs.
 
 <TheFooter />
+
+<!--
+2 Must use:
+
+- Git and CDN or static site hosting.
+-->
 
 ---
 layout: statement
@@ -163,14 +184,21 @@ layout: statement
 
 1. <twemoji-pencil /> Write content - Headless CMS, markdown files.
 2. <twemoji-laptop /> Write code for the frontend.
-3. <twemoji-cloud /> Build locally or in CI, fetch content and convert to static files.
+3. <twemoji-hammer /> Build! Fetch content and convert to static files.
 4. <twemoji-rocket /> Deploy static files to a CDN/static site hosting.
 
 <!--
-Cache invalidation.
+Use your markup files to generate your pages.
+Write your code to create dynamic elements.
+Use your API to fetch content during build time.
+Deploy your static files to a CDN.
 -->
 
 <TheFooter />
+
+<!--
+How do these play together?
+-->
 
 ---
 layout: image-right
@@ -210,6 +238,13 @@ image: /sutmm.jpeg
 - <twemoji-robot /> Developer-friendly
 
 <TheFooter />
+
+<!--
+- There is no server to maintain
+- No Database or server-side code to maintain
+- CDN is automatically scaled
+- Focus on the frontend
+-->
 
 ---
 layout: statement
