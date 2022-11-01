@@ -2,8 +2,7 @@
 theme: apple-basic
 colorSchema: light
 layout: intro-image
-image: >-
-  https://images.unsplash.com/photo-1657441411855-5ba346a6b044?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1710&q=80
+image: /cover.avif
 fonts:
   sans: Roboto
   serif: Roboto Slab
@@ -20,7 +19,7 @@ class: text-coolgray-8 bg-coolgray-1
 
 ---
 layout: intro-image-right
-image: https://s.w.org/style/images/about/WordPress-logotype-wmark.png
+image: /wp-logo.png
 ---
 
 # LAMP Stack
@@ -43,7 +42,7 @@ image: https://s.w.org/style/images/about/WordPress-logotype-wmark.png
 
 ---
 layout: image-right
-image: ./assets/this-is-fine.jpg
+image: /this-is-fine.jpg
 ---
 
 # Let's look into...
@@ -68,7 +67,7 @@ image: ./assets/this-is-fine.jpg
 
 ---
 layout: image-right
-image: https://roots.io/app/uploads/wp-routing-01.svg
+image: /wp-routing.svg
 ---
 
 # Let's look into...
@@ -104,7 +103,7 @@ public function main($query_args = '') {
 
 ---
 layout: image-right
-image: 'https://cdn.buttercms.com/ecJRnUxySgel12J15vJA'
+image: /jam.png
 ---
 
 # Jamstack
@@ -127,7 +126,7 @@ image: 'https://cdn.buttercms.com/ecJRnUxySgel12J15vJA'
 
 ---
 layout: image-right
-image: https://miro.medium.com/max/1200/0*XhakmCEGBsQ-ai24.jpg
+image: /there-is-no-server.jpg
 ---
 
 # Let's look into...
@@ -156,9 +155,9 @@ Headless CMS: **96**
 layout: statement
 ---
 
-# How to Jamstack?
+# Typical workflow
 
-### Typical workflow for developing a Jamstack site
+### For developing a Jamstack site
 
 <br>
 
@@ -175,7 +174,7 @@ Cache invalidation.
 
 ---
 layout: image-right
-image: ./assets/jamstack-flow.png
+image: /jamstack-flow.png
 ---
 
 # Let's look into...
@@ -200,7 +199,7 @@ https://andrevarandas.dev
 
 ---
 layout: intro-image-right
-image: ./assets/sutmm.jpeg
+image: /sutmm.jpeg
 ---
 
 # Advantages?
@@ -246,7 +245,7 @@ layout: statement
 
 <br />
 
-## Jamstack site with Markdown, Next.js and Neflify
+## With Markdown, Next.js and Neflify
 
 ### phplisbon.com
 
@@ -254,7 +253,7 @@ layout: statement
 
 ---
 layout: intro-image-right
-image: https://i.imgflip.com/2vta21.jpg
+image: /thank-you.jpg
 ---
 
 # Thank you!
