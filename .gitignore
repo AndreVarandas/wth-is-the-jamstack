@@ -4,3 +4,6 @@ dist
 
 # OSX 
 .DS_Store
+
+# Windows
+# *.Identifier
