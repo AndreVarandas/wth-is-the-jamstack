@@ -19,7 +19,7 @@ class: text-coolgray-8 bg-coolgray-1
 
 
 ---
-layout: image-right
+layout: intro-image-right
 image: https://s.w.org/style/images/about/WordPress-logotype-wmark.png
 ---
 
@@ -38,6 +38,8 @@ image: https://s.w.org/style/images/about/WordPress-logotype-wmark.png
 <logos-apache class="text-3xl mx-2" /> 
 <logos-mysql class="text-3xl mx-2" /> 
 <logos-php class="text-3xl mx-2" />
+
+<TheFooter />
 
 ---
 layout: image-right
@@ -62,6 +64,7 @@ image: ./assets/this-is-fine.jpg
 - Linux, PHP, MYSQL, Apache updates
 - Backups, monitoring and logging
 
+<TheFooter />
 
 ---
 layout: image-right
@@ -88,6 +91,8 @@ public function main($query_args = '') {
     do_action_ref_array('wp', array(&$this));
 }
 ```
+
+<TheFooter />
 
 <!--
 - WordPress environment is loaded (core, plugins, theme)
@@ -118,6 +123,8 @@ image: 'https://cdn.buttercms.com/ecJRnUxySgel12J15vJA'
 - Headless CMS
 - Serverless functions
 
+<TheFooter />
+
 ---
 layout: image-right
 image: https://miro.medium.com/max/1200/0*XhakmCEGBsQ-ai24.jpg
@@ -143,13 +150,15 @@ Static site generators: **347**
 
 Headless CMS: **96**
 
+<TheFooter />
+
 ---
 layout: statement
 ---
 
 # How to Jamstack?
 
-Typical workflow for building a Jamstack site
+### Typical workflow for developing a Jamstack site
 
 <br>
 
@@ -161,6 +170,8 @@ Typical workflow for building a Jamstack site
 <!--
 Cache invalidation.
 -->
+
+<TheFooter />
 
 ---
 layout: image-right
@@ -185,6 +196,8 @@ https://andrevarandas.dev
 -Microservices such as firebase authentication
 -->
 
+<TheFooter />
+
 ---
 layout: intro-image-right
 image: ./assets/sutmm.jpeg
@@ -196,6 +209,8 @@ image: ./assets/sutmm.jpeg
 - <twemoji-sparkles />  More secure
 - <twemoji-money-mouth-face /> Cheaper, easier to scale and maintain
 - <twemoji-robot /> Developer-friendly
+
+<TheFooter />
 
 ---
 layout: statement
@@ -221,6 +236,8 @@ layout: statement
 1. <twemoji-cross-mark /> Sites that need to be updated often or in real-time.
 2. <twemoji-cross-mark /> Sites that need to perform complex operations. 
 
+<TheFooter />
+
 ---
 layout: statement
 ---
@@ -232,6 +249,8 @@ layout: statement
 ## Jamstack site with Markdown, Next.js and Neflify
 
 ### phplisbon.com
+
+<TheFooter />
 
 ---
 layout: intro-image-right
@@ -251,3 +270,5 @@ image: https://i.imgflip.com/2vta21.jpg
 
 1. <logos-twitter class="text-3xl mx-2" /> <a href="https://twitter.com/iamvarandas">@iamvarandas</a>
 2. <logos-github class="text-3xl mx-2" /> <a href="https://github.com/andrevarandas">@andrevarandas</a>
+
+<TheFooter />
