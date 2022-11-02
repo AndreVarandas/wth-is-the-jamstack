@@ -131,7 +131,7 @@ APIs
 Server-side operations using APIs with JavaScript.
 
 Markup
-Generated from source files, Markdown, JSON, or a headless CMS.
+Generated from source files, Markdown, JSON, or a headless CMS
 -->
 
 ---
@@ -145,8 +145,8 @@ Generated from source files, Markdown, JSON, or a headless CMS.
 
 <br />
 
-1. <logos-github class="text-2xl" /> Source code in a Git repository
-2. <logos-netlify class="text-2xl" /> CDN or static site hosting
+1. <logos-html5 class="text-2xl" /> Markup generated from source files
+3. <logos-netlify class="text-2xl" /> CDN or static site hosting
 
 <br />
 
@@ -165,6 +165,8 @@ Generated from source files, Markdown, JSON, or a headless CMS.
 
 ### Optional
 
+<br />
+
 1. <logos-nextjs class="text-2xl" /> Static site generator 
 2. <logos-aws class="text-2xl" /> Serverless functions or APIs 
 3. <logos-strapi class="text-2xl" /> Headless CMS to manage content
@@ -177,7 +179,7 @@ Generated from source files, Markdown, JSON, or a headless CMS.
 <!--
 2 Must use:
 
-- Git and CDN or static site hosting.
+- Static markup and CDN or static site hosting.
 
 Optional tools and how they work.
 -->
@@ -192,7 +194,7 @@ layout: statement
 
 <br>
 
-1. <twemoji-pencil /> Write content - Headless CMS, markdown files.
+1. <twemoji-pencil /> Write content | Headless CMS, markdown, json files.
 2. <twemoji-laptop /> Write code for the frontend, microservices, use version control.
 3. <twemoji-hammer /> Build! Fetch content and convert to static files.
 4. <twemoji-rocket /> Deploy static files to a CDN/static site hosting.
