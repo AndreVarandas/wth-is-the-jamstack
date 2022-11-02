@@ -55,8 +55,8 @@ image: /this-is-fine.jpg
 ### WordPress development flow
 
 - Configure the stack
-- Developing and deploying
 - Manage Wordpress, plugins and themes
+- Developing and deploying
 
 <br />
 
@@ -135,11 +135,11 @@ Generated from source files, Markdown, JSON, or a headless CMS.
 -->
 
 ---
-layout: image-right
-image: /there-is-no-server.jpg
----
 
 # Let's look into...
+
+<div class="grid grid-cols-2">
+<div>
 
 ### Must have
 
@@ -150,19 +150,27 @@ image: /there-is-no-server.jpg
 
 <br />
 
+### Tools
+
+<br />
+
+1. Static site generators: **347**
+2. Headless CMS: **96**
+3. **Countless** amount of APIs.
+
+<br />
+
+</div>
+<div>
+
 ### Optional
 
 1. <logos-nextjs class="text-2xl" /> Static site generator 
 2. <logos-aws class="text-2xl" /> Serverless functions or APIs 
 3. <logos-strapi class="text-2xl" /> Headless CMS to manage content
 
-<br />
-
-### Tools
-
-1. Static site generators: **347**
-2. Headless CMS: **96**
-3. **Countless** amount of APIs.
+</div>
+</div>
 
 <TheFooter />
 
@@ -185,7 +193,7 @@ layout: statement
 <br>
 
 1. <twemoji-pencil /> Write content - Headless CMS, markdown files.
-2. <twemoji-laptop /> Write code for the frontend.
+2. <twemoji-laptop /> Write code for the frontend, microservices, use version control.
 3. <twemoji-hammer /> Build! Fetch content and convert to static files.
 4. <twemoji-rocket /> Deploy static files to a CDN/static site hosting.
 
@@ -201,8 +209,10 @@ Deploy your static files to a CDN.
 <!--
 Typical workflow
 
-- Write content, and add dynamic behavior with JavaScript.
--
+- Write content
+-  Dynamic behavior with JavaScript. Use GIT
+- Push code changes, use version control
+- Build should generate static files - prerender html in advance.
 -->
 
 ---
@@ -277,6 +287,10 @@ layout: statement
 
 <TheFooter />
 
+<!--
+- Performance, SEO - static content
+-->
+
 ---
 layout: statement
 ---
@@ -300,7 +314,7 @@ image: /thank-you.jpg
 
 <br />
 
-<twemoji-clapping-hands class="text-4xl" /> <twemoji-clapping-hands class="text-4xl" /> <twemoji-clapping-hands class="text-4xl" />
+<twemoji-red-heart class="text-4xl" /> <twemoji-red-heart class="text-4xl" /> <twemoji-red-heart class="text-4xl" />
 
 <br />
 <br />
