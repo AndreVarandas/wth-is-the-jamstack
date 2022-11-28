@@ -260,10 +260,10 @@
   dependencies:
     "@iconify/types" "*"
 
-"@iconify-json/twemoji@^1.1.5":
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/@iconify-json/twemoji/-/twemoji-1.1.5.tgz#c657cafc8f17b3921d803758113a513990014061"
-  integrity sha512-1sTyrLUrMF7QhXS8a9XOd2ySgxgESQTRvhtN471QFdqIaXMi7oWB5UUFh0z984s/al4Iclet+O8BZfuhM9t7lg==
+"@iconify-json/twemoji@^1.1.7":
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/@iconify-json/twemoji/-/twemoji-1.1.7.tgz#415e7d29ce71aafee5a614f4c3b1acf1344cfe88"
+  integrity sha512-ovkSkktCbRQDdmplzkgZZGUazwTTwzbzQ6ahDUzHDTehA7U8RKAmL5a++a6SCOmFWTQ+RMn2cuXyTcMHe0Rf4Q==
   dependencies:
     "@iconify/types" "*"
 
