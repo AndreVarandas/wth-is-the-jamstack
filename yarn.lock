@@ -267,10 +267,10 @@
   dependencies:
     "@iconify/types" "*"
 
-"@iconify-json/uim@^1.1.2":
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@iconify-json/uim/-/uim-1.1.2.tgz#027ffa2cee1f4581d83f5bfe05bdfb56b2ef597d"
-  integrity sha512-y30D/pUfqyIdKxIR+xOthDiQPSTRIM9cOy8PIOmeuTgh4Yc8gTwL8kWuoDenVxPhk0fXsRw16bn441PK6iuDTQ==
+"@iconify-json/uim@^1.1.3":
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/@iconify-json/uim/-/uim-1.1.3.tgz#61cbeb126080b6bb96debcd52ceea83c6edfe71d"
+  integrity sha512-/vF3TRFdTL4g6A8uC8Edjm6Jsw8Xik1cZBMXFbJtt06a6W+pKgR14tx01yRvTkdFrYgWH/k9FSxQ/CvC1cJ4Yw==
   dependencies:
     "@iconify/types" "*"
 
