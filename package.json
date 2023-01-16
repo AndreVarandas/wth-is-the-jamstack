@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@iconify-json/logos": "^1.1.22",
-    "@iconify-json/twemoji": "^1.1.9",
+    "@iconify-json/twemoji": "^1.1.10",
     "@iconify-json/uim": "^1.1.3"
   }
 }
