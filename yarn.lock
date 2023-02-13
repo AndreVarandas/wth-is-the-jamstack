@@ -494,10 +494,10 @@
   dependencies:
     "@iconify/types" "*"
 
-"@iconify-json/logos@^1.1.22":
-  version "1.1.22"
-  resolved "https://registry.yarnpkg.com/@iconify-json/logos/-/logos-1.1.22.tgz#eb9f86aca7c93be420e2274387fb267e56742701"
-  integrity sha512-vlkTWWWzQ9eghWaoq2D51jPDJBhn6yvjr4TvRJxVPisIm0yDkvt2l4yq/QPonZBSaKuEXga5omDulJHIcSVR3A==
+"@iconify-json/logos@^1.1.23":
+  version "1.1.23"
+  resolved "https://registry.yarnpkg.com/@iconify-json/logos/-/logos-1.1.23.tgz#f5f578afe6e12158ff0ee4043f52975bed0c1252"
+  integrity sha512-bV1w4OQaHy6YZH/RhpxRc/BrzgF+7mW8HZ+ZltHbeokriwCf7gAKx6HWVOcLT0gZbO7MMM8HxnzvS7vlzhwNyw==
   dependencies:
     "@iconify/types" "*"
 
