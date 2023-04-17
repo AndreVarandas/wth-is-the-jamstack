@@ -508,10 +508,10 @@
   dependencies:
     "@iconify/types" "*"
 
-"@iconify-json/twemoji@^1.1.10":
-  version "1.1.10"
-  resolved "https://registry.yarnpkg.com/@iconify-json/twemoji/-/twemoji-1.1.10.tgz#ca521a647b2085c19e96b42bd9a54d14a9930d24"
-  integrity sha512-u3SBtWvh6S1qVXqjnQGlPkfxy1HBAwEFuengwau1NngfOc9vpecbKcxvrd85Egf7hMElH/uYCs/yrMnsbZ7yxA==
+"@iconify-json/twemoji@^1.1.11":
+  version "1.1.11"
+  resolved "https://registry.yarnpkg.com/@iconify-json/twemoji/-/twemoji-1.1.11.tgz#b13d42696ee795da629e6d394f13a1b08b95376d"
+  integrity sha512-ZA2v2AGWPC0rxiZDLqsVD+DoYB3n5Ft5q0YYAsy9QyYvoNWSdh6Vxe5d3yUP4mSpNkE4YW96RAjiZu72uXb7kQ==
   dependencies:
     "@iconify/types" "*"
 
