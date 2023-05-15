@@ -609,10 +609,10 @@
   dependencies:
     "@iconify/types" "*"
 
-"@iconify-json/logos@^1.1.27":
-  version "1.1.27"
-  resolved "https://registry.yarnpkg.com/@iconify-json/logos/-/logos-1.1.27.tgz#5af35160c899161e9c3f1bdb21638f201fa7bf1e"
-  integrity sha512-EwGBezJ79tYKsgykLoS8t6CS+7aaj+SWMZgLv4gN5s0QzX2GbYGxlV9bX52Ddro90edwEhYFPHOBl9CR7v6E/w==
+"@iconify-json/logos@^1.1.29":
+  version "1.1.29"
+  resolved "https://registry.yarnpkg.com/@iconify-json/logos/-/logos-1.1.29.tgz#049f4acaf5e2b009f30a6d241590740cc07f0af5"
+  integrity sha512-hrk7YumrGPAToLwJ7uVQ6Yv1s/S8ChutCAsY5oLZQ4kwndjhrPu9TXAPkfNV5z8fVidb34g7ioSaL9qHGB662A==
   dependencies:
     "@iconify/types" "*"
 
