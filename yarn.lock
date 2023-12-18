@@ -691,10 +691,10 @@
   dependencies:
     "@iconify/types" "*"
 
-"@iconify-json/uim@^1.1.8":
-  version "1.1.8"
-  resolved "https://registry.yarnpkg.com/@iconify-json/uim/-/uim-1.1.8.tgz#3b7382bef71dc327572c82d6c2f4232d9b7a8e2a"
-  integrity sha512-Glc+tsyLPZhGfPS8E9TYnEExQlaORva8SCQX/3bCRAcGz/dH2HDB7A44Mw4Y7CwSaVLkquIs35rtlvtK4XCX2g==
+"@iconify-json/uim@^1.1.9":
+  version "1.1.9"
+  resolved "https://registry.yarnpkg.com/@iconify-json/uim/-/uim-1.1.9.tgz#47bde47581fa92d9611e42bd9f088f28b6c6c5d2"
+  integrity sha512-mV9Ps5WkLbPsk/Nztxye2TBCpEDIkeMtXXgYRgtfQve8kY0DkMF/je+YCvfd59IzXACZ6JwNAsPeF7fCYzPP+w==
   dependencies:
     "@iconify/types" "*"
 
